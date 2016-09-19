@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VirtualPet2\VirtualPet2\bin\Debug\VirtualPet2.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VirtualPet2\VirtualPet2\bin\Debug\VirtualPet2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VirtualPet2\VirtualPet2\bin\Debug\VirtualPet2.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VirtualPet2\VirtualPet2\obj\Debug\VirtualPet2.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VirtualPet2\VirtualPet2\obj\Debug\VirtualPet2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VirtualPet2\VirtualPet2\obj\Debug\VirtualPet2.pdb
