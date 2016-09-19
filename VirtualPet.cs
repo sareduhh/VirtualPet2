@@ -65,25 +65,25 @@ namespace VirtualPet2
         public void Flowers()
         {
             flower -= 10;
-            swat += 5;
+            swat += 7;
         }
 
         public void Swatting()
         {
             swat -= 10;
-            honey += 5;
+            honey += 4;
         }
 
         public void GiveHoney()
         {
-            honey -= 10;
-            flower += 7;
+            honey -= 9;
+            flower += 6;
         }
 
         public void Tick()
         {
-            flower += 3;
-            honey += 6;
+            flower += 2;
+            honey += 7;
         }
     }
 }
