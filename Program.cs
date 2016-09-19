@@ -65,6 +65,11 @@ namespace VirtualPet2
                     case 4:
                         quit();
                         break;
+
+                    default:
+                        Console.WriteLine("I told you not to swat him, now he's going to sting you.");
+                        quit();
+                        break;
                 }
 
                 //calling tick method updates Flowers and Honey
